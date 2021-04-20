@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @iHatePhysics
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning reactJS, flutter
+- 💞️ I’m looking to collaborate on React Projects
